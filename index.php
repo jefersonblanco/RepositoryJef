@@ -1,9 +1,7 @@
 <?php
 
 
-$nome = "Jeferson";
-
-echo $nome;
+echo "Jeferson";
 
 
 ?>
